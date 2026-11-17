@@ -1,0 +1,2 @@
+# musick
+Music-related repository
